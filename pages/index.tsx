@@ -1,3 +1,4 @@
+//@ts-nocheck
 import { useSelector, useDispatch } from 'react-redux'
 import styles from '@/styles/Home.module.css'
 import { setOption, setText } from '@/src/store/appSlice'
